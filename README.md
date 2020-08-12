@@ -1,1 +1,1 @@
-# fullstackjohnmack.github.io
+# fullstackjohnmack
